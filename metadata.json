@@ -1,0 +1,8 @@
+{
+  "name": "多人線上盲盒記帳小遊戲 (Gacha & Expense Tracker)",
+  "description": "這是一款結合記帳與盲盒抽卡的多人線上小遊戲。紀錄今日花費可獲得抽卡券，去抽「省錢達人」、「破產邊緣」等稀有卡片，並與線上玩家即時聊天、分享戰績與共同競逐省錢排行！",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
